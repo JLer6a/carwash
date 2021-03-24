@@ -1,0 +1,8 @@
+ru\budkin\model\Car.class
+ru\budkin\controllers\CarController.class
+ru\budkin\repositories\CarRepositoryImpl.class
+ru\budkin\cofig\ApplicationInitializer.class
+ru\budkin\repositories\CrudRepository.class
+ru\budkin\cofig\ApplicationConfig.class
+ru\budkin\model\Car$CarBuilder.class
+ru\budkin\repositories\CarRepository.class
